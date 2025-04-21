@@ -10,3 +10,6 @@
  5. Analyze the profit by category and sub-category.
  6. Analyze the sales and profit by customer segment.
  7. Analyze the sales to profit ratio.
+
+
+Please use https://nbviewer.org/github/ParagBirhade1999/E-Commerce-Project-based-on-Python/blob/main/E-Comm%20Project--.ipynb link to view complete Visualization.
